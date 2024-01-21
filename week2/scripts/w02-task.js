@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = `Douglas R. Santos`;
 let currentYear = 2024;
-let profilePicture = ("images/us.jpeg");
+let profilePicture = ("images/us.png");
 
 
 /* Step 3 - Element Variables */
