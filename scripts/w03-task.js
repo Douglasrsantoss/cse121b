@@ -84,16 +84,29 @@ function total(number) {
     return number * 0.8
 };
 
-function getTotalDue () {
+function getTotalDueMember () {
 
     let subTotal = Number(document.querySelector("#subtotal").value);
 
-    document.querySelector("#total").value = total(subTotal);
+    document.querySelector("#total").innerHTML = total(subTotal);
 };
 
-/*buttonElement.addEventListener("click", getTotalDue)*/
+function getTotalDue() {
+    let subTotal = Number(document.querySelector("#subtotal").value);
+    document.querySelector("#total").innerHTML = subTotal;
+}
 
-document.querySelector("#getTotal").addEventListener("click", getTotalDue);
+/*buttonElement.addEventListener("click", getTotalDue)*/
+const subTotal = document.querySelector("#subtotal").value
+const checkBox = document.querySelector("#member");
+
+if ((checkBox.checked )){
+    document.querySelector("#getTotal").addEventListener("click", getTotalDueMember);
+}
+else {
+    document.querySelector("#getTotal").addEventListener("click", getTotalDue);
+};
+
 
 /* ARRAY METHODS - Functional Programming */
 /* Output Source Array */
