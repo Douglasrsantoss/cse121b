@@ -97,15 +97,17 @@ function getTotalDue() {
 }
 
 /*buttonElement.addEventListener("click", getTotalDue)*/
-const subTotal = document.querySelector("#subtotal").value
-const checkBox = document.querySelector("#member");
+const subTotal = document.querySelector("#subtotal");
+let checkBox = document.querySelector("#member");
 
-if ((checkBox.checked )){
+if (checkBox.checked){
     document.querySelector("#getTotal").addEventListener("click", getTotalDueMember);
 }
 else {
     document.querySelector("#getTotal").addEventListener("click", getTotalDue);
 };
+
+
 
 
 /* ARRAY METHODS - Functional Programming */
