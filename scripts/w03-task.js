@@ -98,7 +98,7 @@ function getTotalDue() {
 
 /*buttonElement.addEventListener("click", getTotalDue)*/
 const subTotal = document.querySelector("#subtotal");
-let checkBox = document.querySelector("#member");
+var checkBox = document.querySelector("#member");
 
 if (checkBox.checked){
     document.querySelector("#getTotal").addEventListener("click", getTotalDueMember);
