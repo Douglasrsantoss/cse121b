@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project</title>
+    <link rel="stylesheet" href="styles/project.css">
+</head>
+<body>
+  <nav>
+    <ul id="menu">
+      <li><a id="toggleMenu">&equiv;</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="w01-task.html">W1 Task</a></li>
+      <li><a href="w03-task.html">W3 Task</a></li>
+      <li><a href="w04-task.html">W4 Task</a></li>
+      <li><a href="w05-task.html">W5 Task</a></li>
+      <li><a href="project.html" class="active">Project</a></li>
+    </ul>
+  </nav>
+
+    <main id="gridly">
+        <h1>W06: Final Project</h1>
+    
+        <div id="filter">
+          <select id="filtered" title="Choose a data filter.">
+            <option value="" disabled selected>---Choose a filter---</option>
+            <option value="ladies">Ladies</option>
+            <option value="gentlemen">Gentlemen</option>
+            <option value="direct_family">Direct Family</option>
+            <option value="other_relatives">Other Relatives</option>
+            <option value="no_filter">No filter</option>
+          </select>
+        </div>
+    
+        <div id="member">
+        </div>
+      </main>
+
+      <footer>
+        &copy;<span id="year"></span> | Week 06 - Project | CSE 121b
+      </footer>
+      <script src="scripts/main.js"></script>
+      <script>
+        document.getElementById("year").innerHTML = new Date().getFullYear();
+      </script>
+      <script src="scripts/w05-task.js"></script>
+    <script src="scripts/project.js"></script>
+</body>
+</html>
