@@ -22,7 +22,7 @@
   },
   {
     "name": "Reginaldo Santos",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "January, 7",
     "kinship": "father",
     "image": "images/boy.jpeg"
@@ -36,21 +36,21 @@
   },
   {
     "name": "Henrique Holsback",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "",
     "kinship": "brother-in-law",
     "image": ""
   },
   {
     "name": "Caio Holsback",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "August, 30",
     "kinship": "nephew",
     "image": ""
   },
   {
     "name": "Diego Santos",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "August, 3",
     "kinship": "brother",
     "image": ""
@@ -64,14 +64,14 @@
   },
   {
     "name": "Danilo Santos",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "December, 18",
     "kinship": "brother",
     "image": ""
   },
   {
     "name": "Davi Santos",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "November, 26",
     "kinship": "brother",
     "image": ""
@@ -85,7 +85,7 @@
   },
   {
     "name": "Rubens Quadros",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "February, 5",
     "kinship": "uncle",
     "image": ""
@@ -106,21 +106,21 @@
   },
   {
     "name": "Gustavo Quadros",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "July, 17",
     "kinship": "cousing",
     "image": ""
   },
   {
     "name": "Rubens Quadros",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "December, 25",
     "kinship": "",
     "image": ""
   },
   {
     "name": "Lucas Tazza",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "Semptember, 21",
     "kinship": "cousing",
     "image": ""
@@ -134,7 +134,7 @@
   },
   {
     "name": "Cleber Brandão",
-    "sex": "male",
+    "sex": "man",
     "birthdate": "February, 5",
     "kinship": "father-in-law",
     "image": ""
