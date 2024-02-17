@@ -1,163 +1,163 @@
 [
   {
-    "name": "Lissa Santos"
-    "sex": "female"
-    "birthdate": "July, 8"
-    "kinship": "wife"
-    "image": "images/girl.webp"
+    "name": "Lissa Santos",
+    "sex": "female",
+    "birthdate": "July, 8",
+    "kinship": "wife",
+    "image": "images/girl.webp",
   },
 {
-    "name": "Emmy Santos"
-    "sex": "female"
-    "birthdate": "September, 1"
-    "kinship": "daughter"
-    "image": ""
+    "name": "Emmy Santos",
+    "sex": "female",
+    "birthdate": "September, 1",
+    "kinship": "daughter",
+    "image": "",
   },
 {
-    "name": "Ariadne Santos"
-    "sex": "female"
-    "birthdate": "December, 8"
-    "kinship": "mother"
-    "image": ""
+    "name": "Ariadne Santos",
+    "sex": "female",
+    "birthdate": "December, 8",
+    "kinship": "mother",
+    "image": "",
   },
 {
-    "name": "Reginaldo Santos"
-    "sex": "male"
-    "birthdate": "January, 7"
-    "kinship": "father"
-    "image": "images/boy.png"
+    "name": "Reginaldo Santos",
+    "sex": "male",
+    "birthdate": "January, 7",
+    "kinship": "father",
+    "image": "images/boy.png",
   },
 {
-    "name": "Débora Holsback
-    "sex": "female"
-    "birthdate": "October, 16"
-    "kinship": "sister"
-    "image": ""
+    "name": "Débora Holsback,
+    "sex": "female",
+    "birthdate": "October, 16",
+    "kinship": "sister",
+    "image": "",
   },
 {
-    "name": "Henrique Holsback"
-    "sex": "male"
-    "birthdate": ""
-    "kinship": "brother-in-law"
-    "image": ""
+    "name": "Henrique Holsback",
+    "sex": "male",
+    "birthdate": "",
+    "kinship": "brother-in-law",
+    "image": "",
   },
 {
-    "name": "Caio Holsback"
-    "sex": "male"
-    "birthdate": "August, 30"
-    "kinship": "nephew"
-    "image": ""
+    "name": "Caio Holsback",
+    "sex": "male",
+    "birthdate": "August, 30",
+    "kinship": "nephew",
+    "image": "",
   },
 {
-    "name": "Diego Santos"
-    "sex": "male"
-    "birthdate": "August, 3"
-    "kinship": "brother"
-    "image": ""
+    "name": "Diego Santos",
+    "sex": "male",
+    "birthdate": "August, 3",
+    "kinship": "brother",
+    "image": "",
   },
 {
-    "name": "Laura Santos"
-    "sex": "female"
-    "birthdate": "July, 22"
-    "kinship": "sister-in-law"
-    "image": ""
+    "name": "Laura Santos",
+    "sex": "female",
+    "birthdate": "July, 22",
+    "kinship": "sister-in-law",
+    "image": "",
   },
 {
-    "name": "Danilo Santos"
-    "sex": "male"
-    "birthdate": "December, 18"
-    "kinship": "brother"
-    "image": ""
+    "name": "Danilo Santos",
+    "sex": "male",
+    "birthdate": "December, 18",
+    "kinship": "brother",
+    "image": "",
   },
 {
-    "name": "Davi Santos"
-    "sex": "male"
-    "birthdate": "November, 26"
-    "kinship": "brother"
-    "image": ""
+    "name": "Davi Santos",
+    "sex": "male",
+    "birthdate": "November, 26",
+    "kinship": "brother",
+    "image": "",
   },
 {
-    "name": "Agnes Quadros"
-    "sex": "female"
-    "birthdate": May, 14"
-    "kinship": "aunt"
-    "image": ""
+    "name": "Agnes Quadros",
+    "sex": "female",
+    "birthdate": May, 14",
+    "kinship": "aunt",
+    "image": "",
   },
 {
-    "name": "Rubens Quadros"
-    "sex": "male"
-    "birthdate": "February, 5"
-    "kinship": "uncle"
-    "image": ""
+    "name": "Rubens Quadros",
+    "sex": "male",
+    "birthdate": "February, 5",
+    "kinship": "uncle",
+    "image": "",
   },
 {
-    "name": "Adrielly Quadros"
-    "sex": "female"
-    "birthdate": "April, 15"
-    "kinship": "cousing"
-    "image": ""
+    "name": "Adrielly Quadros",
+    "sex": "female",
+    "birthdate": "April, 15",
+    "kinship": "cousing",
+    "image": "",
   },
 {
-    "name": "Gabriella Quadros"
-    "sex": "female"
-    "birthdate": "Julne, 29"
-    "kinship": "cousing"
-    "image": ""
+    "name": "Gabriella Quadros",
+    "sex": "female",
+    "birthdate": "Julne, 29",
+    "kinship": "cousing",
+    "image": "",
   },
 {
-    "name": "Gustavo Quadros"
-    "sex": "male"
-    "birthdate": "July, 17"
-    "kinship": "cousing"
-    "image": ""
+    "name": "Gustavo Quadros",
+    "sex": "male",
+    "birthdate": "July, 17",
+    "kinship": "cousing",
+    "image": "",
   },
 {
-    "name": "Rubens Quadros"
-    "sex": "male"
-    "birthdate": "December, 25"
-    "kinship": ""
-    "image": ""
+    "name": "Rubens Quadros",
+    "sex": "male",
+    "birthdate": "December, 25",
+    "kinship": "",
+    "image": "",
   },
 {
-    "name": "Lucas Tazza"
-    "sex": "male"
-    "birthdate": "Semptember, 21"
-    "kinship": "cousing"
-    "image": ""
+    "name": "Lucas Tazza",
+    "sex": "male",
+    "birthdate": "Semptember, 21",
+    "kinship": "cousing",
+    "image": "",
   },
 {
-    "name": "Rafaela Tazza"
-    "sex": "female"
-    "birthdate": "October, 20"
-    "kinship": "cousing"
-    "image": ""
+    "name": "Rafaela Tazza",
+    "sex": "female",
+    "birthdate": "October, 20",
+    "kinship": "cousing",
+    "image": "",
   },
 {
-    "name": "Cleber Brandão"
-    "sex": "male"
-    "birthdate": "February, 5"
-    "kinship": "father-in-law"
-    "image": ""
+    "name": "Cleber Brandão",
+    "sex": "male",
+    "birthdate": "February, 5",
+    "kinship": "father-in-law",
+    "image": "",
   },
 {
-    "name": "Aparecida Brandão"
-    "sex": "female"
-    "birthdate": "November, 24"
-    "kinship": "mother-in-law"
-    "image": ""
+    "name": "Aparecida Brandão",
+    "sex": "female",
+    "birthdate": "November, 24",
+    "kinship": "mother-in-law",
+    "image": "",
   },
 {
-    "name": "Lucy Brandão"
-    "sex": "female"
-    "birthdate": "April, 11"
-    "kinship": "sister-in-law"
-    "image": ""
+    "name": "Lucy Brandão",
+    "sex": "female",
+    "birthdate": "April, 11",
+    "kinship": "sister-in-law",
+    "image": "",
   },
 {
-    "name": "Laysa Brandão"
-    "sex": "female"
-    "birthdate": "July, 6"
-    "kinship": "sister-in-law"
-    "image": ""
+    "name": "Laysa Brandão",
+    "sex": "female",
+    "birthdate": "July, 6",
+    "kinship": "sister-in-law",
+    "image": "",
   }
 ]
